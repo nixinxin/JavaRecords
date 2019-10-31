@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Darcy/Darcy.tmTheme",
+	"dpi_scale": 1.0,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"gdi"
+	],
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Default.sublime-theme",
+	"theme_font_options":
+	[
+		"gdi"
+	]
+}

@@ -1,0 +1,2 @@
+2019-05-16 16:04:29.663 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: Could not find file: F:\Users\baidu\work\image\xiaohuangren.jpg
+2019-05-16 16:17:49.456 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: Could not find file: F:\Cache\browserTest\imooc.jpg
